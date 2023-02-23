@@ -2,7 +2,7 @@
 
 ![Screenshot](https://github.com/marcello0201/X99-F8-Hackintosh-Monterey/blob/main/imagem/Monterey%20on%20X99-F8.png)
 
-- Placa mãe: HUANANZHI X99-F8 V2.0
+- Placa Mãe: HUANANZHI X99-F8 V2.0
 - Processador: Intel Xeon E5 2678 V3 12/24 @3.3 GHz
 - Placa de Video : Gigabyte AMD Radeon RX 5500 XT 4GB / 
     https://www.techpowerup.com/gpu-specs/gigabyte-rx-5500-xt-oc.b7510
