@@ -31,3 +31,4 @@
 -------------------
 ## Notas:
 - Audio HDMI não funciona, estou utilizando um adaptador de DisplayPort para HDMI para conseguir ter audio pelo hdmi.
+- Para medir a temperatuda da RX 5500 XT no macOS utilize o programa RadeonGadget e inicie ele com o macOS.
