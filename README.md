@@ -30,4 +30,4 @@
 
 -------------------
 ## Notas:
--Audio HDMI não funciona, estou utilizando um adaptador de DisplayPort para HDMI para conseguir ter audio pelo hdmi.
+- Audio HDMI não funciona, estou utilizando um adaptador de DisplayPort para HDMI para conseguir ter audio pelo hdmi.
